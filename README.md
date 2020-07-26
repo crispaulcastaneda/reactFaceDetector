@@ -14,5 +14,5 @@ PostgreSQL
 ### Purpose
 Simple project that will enhance in the near future update that will support your Web Application.
 
-Project will release soon. 
+Project will release soon.
 {thedevcristian}
