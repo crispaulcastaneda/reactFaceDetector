@@ -1,7 +1,7 @@
-# Project Facial like Facebook
+# Project facial recognition like Facebook
 
-Using **React + Redux** technology to create an image facial recognition.
-Can create an account save to **Node + Express** backend.
+Using **React + Redux** technology to create an image facial recognition. <br>
+Can create an account save to **Node + Express** backend. <br>
 **Postgre** as database.
 
 ## Technologies 
